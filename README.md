@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook that performs exploratory data analy
 - [Usage](#usage)
 - [Key Findings](#key-findings)
 - [Conclusion](#conclusion)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
